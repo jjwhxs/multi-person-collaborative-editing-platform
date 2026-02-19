@@ -124,8 +124,6 @@ wss.on("error", () => {}); };
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1130" height="135" alt="链接" src="https://github.com/user-attachments/assets/08819328-dad5-4227-907a-d68bbaf4d014" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWTkpZqaw==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
